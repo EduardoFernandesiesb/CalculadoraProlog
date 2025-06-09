@@ -1,10 +1,10 @@
 # Calculadora em Prolog
 
-Eduardo Fernandes - 2312130156
-Rogeres Gabriel - 2312130168
-Iago de Souza - 2312130087
-Lucas Faria Ribeio - 2312130113
-Sofia Vaz - 2312130112
+- Eduardo Fernandes - 2312130156
+- Iago de Souza - 2312130087
+- Lucas Faria Ribeiro - 2312130113
+- Rogeres Gabriel - 2312130168
+- Sofia Vaz - 2312130112
 
 
 ## Como Usar
